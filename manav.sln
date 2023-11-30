@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "manav", "manav\manav.csproj", "{8E6DD244-D477-4F89-9C0B-D28F21572B00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E6DD244-D477-4F89-9C0B-D28F21572B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E6DD244-D477-4F89-9C0B-D28F21572B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E6DD244-D477-4F89-9C0B-D28F21572B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E6DD244-D477-4F89-9C0B-D28F21572B00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9BE1C82-9FD9-4CC1-9AC4-DA34BF0DAA42}
+	EndGlobalSection
+EndGlobal
